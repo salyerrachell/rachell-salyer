@@ -8,21 +8,23 @@
 		<h1>Module 01:  Introduction to HTML<h1>
         </h2>Created by: Rachell Salyer<h2></h2>
             <h3></h3> Fall Pumpkin Favorites</h3>
-		<figure>
+	    		<figure>
 			<a href="https://www.halfbakedharvest.com"></a>
-            <img src="https://www.halfbakedharvest.com/wp-content/uploads/2013/11/Roasted-Garlic-Sage-Pesto-Pumpkin-Soup-with-Spicy-Fried-Pumpkin-Seeds-1.jpg"
-            alt="Pumpkin Pesto Soup" title="Pumpkin Pesto Soup" width="300" height="350"/>
+            <img src="RoastedPumpkinSoup.jpeg" alt="Pumpkin Pesto Soup" title="Pumpkin Pesto Soup" width="300" height="350"/>
 			<p>
 				<figcaption>
-					This recipe for pumpkin soup will warm you up for the fall season!
+				This recipe for pumpkin soup will warm you up for the fall season!
 				</figcaption>
 			</p>
 		</figure>
 		<h4>More Recipes:</h4>
 		<p>
-			<img src="images/lemon-posset.jpg" alt="Lemon Posset" title="Lemon Posset" />
-			<img src="images/roasted-brussel-sprouts.jpg" alt="Roasted Brussel Sprouts" title="Roasted Brussel Sprouts" />
-			<img src="images/zucchini-cake.jpg" alt="Zucchini Cake" title="Zucchini Cake" />
+			<img src="Zuppa-Toscana.jpeg" alt="Zuppa Toscana" title="Zuppa-Toscana" width="150" height="150"/>
+			<img src="Instant-Pot-Broccoli-Cheddar-and-Zucchini-Soup-1-700x1050.webp" alt="Broccoli Chedder Soup" title="Broccoli Chedder Soup"width="150" height="150" />
+			<img src="tortellini.jpeg" alt="Roasted Tortellini" title="Roasted Tortellini"width="150" height="150"/>
+            <img src="Pumpkin-Beer-Pretzels.jpeg" alt="Queso Beer Pretzels" title="Queso Beer Pretzels"width="150" height="150"/>
+            <img src="Healthy Turkey Chili.jpeg" alt="Turkey Chili" title="Turkey Chili"width="150" height="150"/>
+
 		</p>
 	</body>
 </html>
