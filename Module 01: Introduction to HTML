@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html lang="en">
+    <html>
+	<head>
+		<title>Module 01</title>
+	</head>
+	<body>
+		<h1>Module 01:  Introduction to HTML<h1>
+        </h2>Created by: Rachell Salyer<h2></h2>
+            <h3></h3> Fall Pumpkin Favorites</h3>
+		<figure>
+			<a href="https://www.halfbakedharvest.com"></a>
+            <img src="https://www.halfbakedharvest.com/wp-content/uploads/2013/11/Roasted-Garlic-Sage-Pesto-Pumpkin-Soup-with-Spicy-Fried-Pumpkin-Seeds-1.jpg"
+            alt="Pumpkin Pesto Soup" title="Pumpkin Pesto Soup" width="300" height="350"/>
+			<p>
+				<figcaption>
+					This recipe for pumpkin soup will warm you up for the fall season!
+				</figcaption>
+			</p>
+		</figure>
+		<h4>More Recipes:</h4>
+		<p>
+			<img src="images/lemon-posset.jpg" alt="Lemon Posset" title="Lemon Posset" />
+			<img src="images/roasted-brussel-sprouts.jpg" alt="Roasted Brussel Sprouts" title="Roasted Brussel Sprouts" />
+			<img src="images/zucchini-cake.jpg" alt="Zucchini Cake" title="Zucchini Cake" />
+		</p>
+	</body>
+</html>
